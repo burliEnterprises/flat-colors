@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FLAT COLORS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="RED">RED</string>
+    <string name="BLUE">BLUE</string>
+    <string name="GREEN">GREEN</string>
+    <string name="YELLOW">YELLOW</string>
+    <string name="PURPLE">PURPLE</string>
+    <string name="PINK">PINK</string>
+    <string name="CYAN">CYAN</string>
+    <string name="BROWN">BROWN</string>
+    <string name="PUCE">PUCE</string>
+    <string name="SLATE">SLATE</string>
+    <string name="DARK">DARK</string>
+    <string name="GREY">GREY</string>
+
+</resources>

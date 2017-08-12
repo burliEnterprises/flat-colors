@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="200dp">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:background="#d3d3"
+        android:id="@+id/ll_color_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <TextView
+            android:text="COPY"
+            android:textColor="#32131313"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/copy_dialog"
+            android:textSize="40dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+<TextView
+    android:id="@+id/hex_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:textColor="#1d1d1d"
+    android:text="#d3d4fd"
+    android:gravity="center"
+    android:textSize="18sp" />
+
+<TextView
+    android:id="@+id/rgb_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:textColor="#1d1d1d"
+    android:text="R: 105 | G: 88 | B: 230"
+    android:gravity="center"
+    android:textSize="14sp" />
+
+</LinearLayout>
